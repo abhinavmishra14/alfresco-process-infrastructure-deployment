@@ -1,7 +1,7 @@
 apiVersion: v1
 name: alfresco-process-infrastructure
-version: 22.2.0-mock1
-appVersion: 22.2.0-mock1
+version: 22.3.0
+appVersion: 22.3.0
 kubeVersion: '>=1.15.0-0'
 description: A Helm chart for Alfresco Activiti Enterprise infrastructure
 keywords:
